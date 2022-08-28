@@ -7,7 +7,7 @@
 <a href = "https://www.github.com/D-Zidane-G/"> <img align="left" alt = "GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a>
 <a href = "https://www.linkedin.com/in/darniel-zidane-garcia/" ><img align="left" alt = "LinkedIn" src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "https://dzg.itch.io" ><img align="left" alt = "Itch.io" src = "https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
-<a href = "https://www.facebook.com/DarnielZidaneG" ><img alt = "Facebook" src = "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href = "https://www.facebook.com/DarnielZidaneG" ><img align="left" alt = "Facebook" src = "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <img alt = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <br><h2> Languages / Frameworks </h2>
