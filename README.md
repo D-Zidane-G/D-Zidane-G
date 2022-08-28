@@ -1,4 +1,4 @@
-# Hi there, I'm Darniel Zidane 👋
+# Hi there, I'm Darniel Zidane Garcia 👋
 
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=D-Zidane-G&show_icons=true&theme=gotham"/>
 <img width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Zidane-G&layout=compact"/>
@@ -35,12 +35,19 @@
 <img alt = "Adobe Illustrator" src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 
 <br><h2> Others </h2>
+<img align="left" alt = "Unity" src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img align="left" alt = "Ubisoft" src = "https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"/>
+<img align="left" alt = "Square Enix" src = "https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white"/>
+<img align="left" alt = "Riot Games" src = "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
+<img align="left" alt = "Epic Games" src = "https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+<img align="left" alt = "Steam" src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
 <img align="left" alt = "Windows" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt = "Android" src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="left" alt = "iOS" src = "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img align="left" alt = "Microsoft" src = "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img align="left" alt = "Linux" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img alt = "Redhat" src = "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+
 <!--
 **D-Zidane-G/D-Zidane-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Game Developer
