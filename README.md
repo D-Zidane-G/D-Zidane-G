@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on _**Kitchen Rush**_
 - 🌱 I’m currently learning _**Unity/Blender**_ 
 - 📫🇵🇭 How to reach me:
-  <br>o Cell #: (63+) 930-045-8835
+  <br>o Cell #: (+63) 930-045-8835
   <br>o Gmail: darnielgarcia@gmail.com
   <br>o Facebook: https://www.facebook.com/DarnielZidaneG
   <br>o ArtStation: https://www.artstation.com/darniel-zidane-garcia
