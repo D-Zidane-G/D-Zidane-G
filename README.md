@@ -1,7 +1,7 @@
 # Hi there, I'm Darniel Zidane Garcia 👋
 
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=D-Zidane-G&show_icons=true&theme=gotham"/>
-<img width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Zidane-G&layout=compact"/>
+<--! <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=D-Zidane-G&show_icons=true&theme=gotham"/>
+<img width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Zidane-G&layout=compact"/> -->
 
 <br><h2> Socials </h2>
 <a href = "https://www.github.com/D-Zidane-G/"> <img align="left" alt = "GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a>
