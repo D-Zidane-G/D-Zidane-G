@@ -1,5 +1,6 @@
 # Hi there, I'm Darniel Zidane Garcia 👋
 
+<br>
 - 🔭 I’m currently working on _**Kitchen Rush**_
 - 🌱 I’m currently learning _**Unity/Blender**_
 - 📫 How to reach me:
