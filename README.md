@@ -1,6 +1,6 @@
 # Hi there, I'm Darniel Zidane Garcia 👋
 
-<--! <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=D-Zidane-G&show_icons=true&theme=gotham"/>
+<!-- <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=D-Zidane-G&show_icons=true&theme=gotham"/>
 <img width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Zidane-G&layout=compact"/> -->
 
 <br><h2> Socials </h2>
