@@ -2,9 +2,9 @@
 
 </br>
 
-- 🔭 I’m currently working on _**Kitchen Rush**_
-- 🌱 I’m currently learning _**Unity/Blender**_
-- 📫 How to reach me:
+- 🔭 <h3> I’m currently working on _**Kitchen Rush**_ </h3>
+- 🌱 <h3> I’m currently learning _**Unity/Blender**_ </h3>
+- 📫 <h3> How to reach me: </h3>
   <br>o Gmail: darnielgarcia@gmail.com
   <br>o Cell #: (63+) 930-045-8835
   <br>o Facebook: https://www.facebook.com/DarnielZidaneG
