@@ -9,6 +9,7 @@
   <br>o Gmail: darnielgarcia@gmail.com
   <br>o Facebook: https://www.facebook.com/DarnielZidaneG
   <br>o ArtStation: https://www.artstation.com/darniel-zidane-garcia
+  <br>o Instagram: https://www.instagram.com/art_of_zai
 
 <!-- <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=D-Zidane-G&show_icons=true&theme=gotham"/>
 <img width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Zidane-G&layout=compact"/> -->
